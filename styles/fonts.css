@@ -1,0 +1,21 @@
+@font-face {
+	font-family: Age;
+	src: url("../assets/fonts/Age.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Gota;
+	src: url("../assets/fonts/Gota.otf") format("opentype");
+}
+
+@font-face {
+	font-family: GotaLight;
+	src: url("../assets/fonts/Gota_Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'archivo_regular';
+    src: url('../assets/fonts/archivo_regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,16 @@
+body {
+  font-family: 'archivo_regular';
+  background: #000;
+  transition: opacity 150ms;
+  opacity: 1;
+}
+
+* {
+  color: white;
+  background-color: black;
+}
+
+::selection {
+  background: #dead00;
+  color: white;
+}
